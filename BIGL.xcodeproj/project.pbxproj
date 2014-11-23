@@ -275,6 +275,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEFINES_MODULE = YES;
 				GCC_ENABLE_TRIGRAPHS = NO;
@@ -328,6 +329,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEFINES_MODULE = YES;
 				GCC_ENABLE_TRIGRAPHS = NO;
