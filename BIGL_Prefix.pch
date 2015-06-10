@@ -5,7 +5,9 @@
 #ifdef __OBJC__
     #import <Foundation/Foundation.h>
     #import <AppKit/AppKit.h>
+
     #import <OpenGL/gl.h>
     #import <OpenGL/glext.h>
     #import <OpenGL/glu.h>
+    #import <OpenGL/CGLContext.h>
 #endif

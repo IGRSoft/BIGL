@@ -1,12 +1,12 @@
 /*
-        File:			BIGLTextView.h
-		Program:		binaervarianz OpenGL Framework
-		Author:			Michael Rossberg
-						mick@binaervarianz.de
-		Changes:        Vitalii Parovishnyk (Korich) 22.11.2014
-						http://igrsoft.com
  
-	Description:	This framework provides abstract Cocoa methods to quickly draw 2D sprites
+ File:			BIGLTextView.h
+ Program:		binaervarianz OpenGL Framework
+ Author:		Michael Roßberg
+                mick@binaervarianz.de
+ Changes:       Vitalii Parovishnyk(1012-2015)
+ 
+ Description:	This framework provides abstract Cocoa methods to quickly draw 2D sprites
  
  This file is part of BIGL.
  
@@ -26,9 +26,6 @@
  */
 
 #import "BIGLSubView.h"
-#import <OpenGL/glext.h>
-#import <OpenGL/OpenGL.h>
-#import <OpenGL/CGLContext.h>
 
 @interface BIGLTextView : BIGLSubView
 {

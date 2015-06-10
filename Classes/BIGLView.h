@@ -1,11 +1,10 @@
 /*
  
-		File:			BIGLView.h
-		Program:		binaervarianz OpenGL Framework
-		Author:			Michael Rossberg
-						mick@binaervarianz.de
-		Changes:        Vitalii Parovishnyk (Korich) 22.11.2014
-						http://igrsoft.com
+ File:			BIGLView.h
+ Program:		binaervarianz OpenGL Framework
+ Author:		Michael Roßberg
+                mick@binaervarianz.de
+ Changes:       Vitalii Parovishnyk(1012-2015)
  
  Description:	This framework provides abstract Cocoa methods to quickly draw 2D sprites
  
@@ -20,13 +19,11 @@
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
-
+ 
  You should have received a copy of the GNU General Public License
  along with BIGL; if not, write to the Free Software
  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  */
-
-#import <AppKit/AppKit.h>
 
 @class BIGLSubView;
 
