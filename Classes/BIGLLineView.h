@@ -39,6 +39,6 @@
 
 - (bool)setLines:(NSArray*)lines;
 - (void)setColor:(NSColor*)color;
-- (void)setLineWidth:(float)width;
+- (void)setLineWidth:(CGFloat)width;
 
 @end

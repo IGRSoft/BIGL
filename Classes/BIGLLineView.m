@@ -69,7 +69,7 @@
 	_color[3] = [color alphaComponent];
 }
 
-- (void)setLineWidth:(float)width
+- (void)setLineWidth:(CGFloat)width
 {
 	_width = width;
 }
